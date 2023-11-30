@@ -3,7 +3,7 @@
 
 - 🎓 I’m currently in my first year at the University of Waterloo studying Computer Engineering
 
-- 👀 Keeping an eye out for Winter 2024 SWE Internships
+- 👀 Looking forward to my Sping 2024 Software Engineering Internship at [Qoherent]((https://www.qoherent.ai/))
 
 - 🚤 This summer I worked at [Minds On](https://www.minds-on.com/) as a Software Engineering Intern
 
