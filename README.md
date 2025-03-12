@@ -3,15 +3,15 @@
 
 - 🎓 I’m currently at the University of Waterloo pursuing a Bachelor of Applied Science in Computer Engineering
 
-- 🥇 This past Fall I worked as a Software Development Intern at <a href="https://www.qoherent.ai/" target="_blank">Qoherent</a>, developing a GUI for Qoherent's suite of Radio Intelligence Apps, RIA, allowing users to access a HuggingFace like platform with Git-like features, but for Software Defined Radios
+- 📻 This past Fall I worked as a Software Development Intern at <a href="https://www.qoherent.ai/" target="_blank">Qoherent</a>, developing a web-based platform for Qoherent's suite of Radio Intelligence Apps, RIA, essentially HuggingFace but tailored for Software Defined Radio
 
 - 🤖 Check out <a href="https://engineerly-ai.vercel.app/" target="_blank">EngineerlyAI</a>, a Gemini-based LLM for 2A Electrical & Computer Engineering students to ask textbook-informed questions for a course of their choosing
 
-- 📄 To learn more, check out my [website](https://www.umairk.me/) or my [resume](https://drive.google.com/file/d/1K72FI06CSdbZkpYYNckgwkCfrwh5MyOG/view?usp=sharing)
+- 📄 To learn more, check out my [website](https://umair-khan.vercel.app/) or my [resume](https://drive.google.com/file/d/1K72FI06CSdbZkpYYNckgwkCfrwh5MyOG/view?usp=sharing)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/umair-khan-bb615b224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umair-khan-bb615b224" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/umair-khan0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umair-khan-bb615b224" height="30" width="40" /></a>
 <a href="https://instagram.com/umairkhan5669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umairkhan5669" height="30" width="40" /></a>
 <a href="https://github.com/UmairK5669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="UmairK5669" height="30" width="40" /></a>
 </p>
