@@ -3,7 +3,7 @@
 
 - 🎓 I’m currently at the University of Waterloo pursuing a Bachelor of Applied Science in Computer Engineering
 
-- 📻 This past Fall I worked as a Software Development Intern at <a href="https://www.qoherent.ai/" target="_blank">Qoherent</a>, developing a web-based platform for Qoherent's suite of Radio Intelligence Apps, RIA, essentially HuggingFace but tailored for Software Defined Radio
+- 📻 This past Summer, I worked as a Full-Stack Development Intern at <a href="https://www.eventist.ca/" target="_blank">Eventist</a>, working on the core Events and Studio Management Portal 
 
 - 🤖 Check out <a href="https://engineerly-ai.vercel.app/" target="_blank">EngineerlyAI</a>, a Gemini-based LLM for 2A Electrical & Computer Engineering students to ask textbook-informed questions for a course of their choosing
 
