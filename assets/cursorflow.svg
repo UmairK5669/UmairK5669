@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="184" viewBox="0 0 480 184" fill="none">
+  <title>CursorFlow — desktop software connected to backend services</title>
+  <rect width="480" height="184" rx="8" fill="#EEDFD4"/>
+  <g stroke="#713F31" opacity=".1"><path d="M0 46H480M0 92H480M0 138H480M48 0V184M96 0V184M144 0V184M192 0V184M240 0V184M288 0V184M336 0V184M384 0V184M432 0V184"/></g>
+  <text x="24" y="30" font-family="ui-monospace, Consolas, monospace" font-size="12" letter-spacing="1.5" fill="#713F31">02 / DESKTOP + CLOUD</text>
+  <g stroke="#713F31" stroke-width="2.5" stroke-linejoin="round">
+    <rect x="69" y="68" width="135" height="81" rx="7" fill="#F8F0E8"/>
+    <path d="M69 87H204M83 78H86M92 78H95M101 78H104"/>
+    <path d="M116 99L144 117L132 121L127 134Z" fill="#713F31"/>
+    <path d="M224 108H284M274 99L284 108L274 117"/>
+    <rect x="307" y="67" width="95" height="34" rx="6" fill="#713F31"/>
+    <rect x="307" y="113" width="95" height="34" rx="6" fill="#F8F0E8"/>
+    <path d="M323 84H366" stroke="#EEDFD4"/><path d="M323 130H366"/>
+  </g>
+  <circle cx="386" cy="84" r="3" fill="#EEDFD4"/><circle cx="386" cy="130" r="3" fill="#713F31"/>
+  <text x="456" y="167" text-anchor="end" font-family="ui-monospace, Consolas, monospace" font-size="10" letter-spacing="1" fill="#713F31">DESKTOP → API → INFRASTRUCTURE</text>
+</svg>

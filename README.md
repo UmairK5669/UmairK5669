@@ -1,20 +1,75 @@
-<h1 align="center" > Hello World, I'm Umair 👋</h1>
-<h3 align="center">A developer, gamer and most importantly, a life-long learner!</h3>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/header-mobile.svg">
+  <img src="./assets/header.svg" width="100%" alt="Umair Khan. Thoughtful interfaces. Serious engineering. Computer Engineering at Waterloo, based in Toronto.">
+</picture>
 
-- 🎓 I’m currently at the University of Waterloo pursuing a Bachelor of Applied Science in Computer Engineering
-
-- 📻 This past Summer, I worked as a Full-Stack Development Intern at <a href="https://www.eventist.ca/" target="_blank">Eventist</a>, working on the core Events and Studio Management Portal 
-
-- 🤖 Check out <a href="https://engineerly-ai.vercel.app/" target="_blank">EngineerlyAI</a>, a Gemini-based LLM for 2A Electrical & Computer Engineering students to ask textbook-informed questions for a course of their choosing
-
-- 📄 To learn more, check out my [website](https://umair-khan.vercel.app/) or my [resume](https://drive.google.com/file/d/1K72FI06CSdbZkpYYNckgwkCfrwh5MyOG/view?usp=sharing)
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/umair-khan0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umair-khan-bb615b224" height="30" width="40" /></a>
-<a href="https://instagram.com/umairkhan5669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umairkhan5669" height="30" width="40" /></a>
-<a href="https://github.com/UmairK5669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="UmairK5669" height="30" width="40" /></a>
+<p>
+  <a href="https://umair-khan.vercel.app/"><strong>Portfolio&nbsp;↗</strong></a> &nbsp; / &nbsp;
+  <a href="https://drive.google.com/file/d/1K72FI06CSdbZkpYYNckgwkCfrwh5MyOG/view"><strong>Resume&nbsp;↗</strong></a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/umair-khan0/"><strong>LinkedIn&nbsp;↗</strong></a> &nbsp; / &nbsp;
+  <a href="mailto:u7khan@uwaterloo.ca"><strong>Say&nbsp;hello&nbsp;↗</strong></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I'm a **Computer Engineering student at the University of Waterloo** building web products, developer tools, and AI applications. I like working across the whole system, from the interface people use to the services behind it.
+
+## 01 / Selected builds
+
+<!-- PROJECTS: Keep these cards short. Add future projects by copying a card or swapping a featured build. -->
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="./assets/engineerly.svg" width="100%" alt="An open textbook connects to a conversation: the idea behind EngineerlyAI.">
+<h3>EngineerlyAI</h3>
+<p><strong>A tutor that knows your course material.</strong></p>
+<p>Course-specific engineering Q&amp;A using Gemini and textbook context, with a Next.js chat interface and a Flask backend on Cloud Run.</p>
+<p><code>Next.js</code> <code>Python</code> <code>Gemini</code> <code>GCP</code></p>
+<p><a href="https://github.com/UmairK5669/EngineerlyAI"><strong>Explore the code ↗</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<img src="./assets/cursorflow.svg" width="100%" alt="A desktop application connects to backend services: the system behind CursorFlow.">
+<h3>CursorFlow</h3>
+<p><strong>A desktop tool, built end to end.</strong></p>
+<p>Cross-platform activity automation with a packaged desktop app, FastAPI services, Stripe subscriptions, and automated license delivery.</p>
+<p><code>Python</code> <code>FastAPI</code> <code>Stripe</code> <code>GCP</code></p>
+<p><a href="https://drive.google.com/file/d/1K72FI06CSdbZkpYYNckgwkCfrwh5MyOG/view"><strong>Read the project background ↗</strong></a></p>
+</td>
+</tr>
+</table>
+
+**Also in the workshop:** [Airbnb-style booking platform](https://github.com/UmairK5669/AirbnbClone) — listings, reservations, search, and authentication with Next.js and MongoDB.
+
+## 02 / Where I've contributed
+
+<!-- EXPERIENCE: Based on the existing resume. Add the next role here when its content is ready. -->
+**Eventist · Full-Stack Developer Intern**<br>
+<sub>May–Aug 2025</sub>
+
+Event and studio management tools: guest emails, scheduling, embedded storefronts, and payment integrations.
+
+**Qoherent · Software Development Intern, two terms**<br>
+<sub>Jan–Apr 2024 &amp; Sep–Dec 2024</sub>
+
+RIA Hub, an AI development platform for software radios. Worked across Vue, Go, FastAPI, Git LFS, and cloud deployment.
+
+<details>
+<summary><strong>Earlier chapters → Minds On &amp; Prosthetix</strong></summary>
+<br>
+
+**Minds On · Web Developer · Jul–Aug 2023**<br>
+Built homepage interactions, program pages, and contact workflows with JavaScript and Velo.
+
+**Prosthetix · Full-Stack Software Developer · Jan–Apr 2023**<br>
+Built an Astro interface and integrated contact forms. [View the code ↗](https://github.com/UmairK5669/prosthetix)
+
+</details>
+
+## 03 / My toolkit
+
+**Interfaces** &nbsp; `TypeScript` `JavaScript` `React` `Next.js` `Vue` `Tailwind CSS`<br>
+**Services** &nbsp; `Python` `Go` `Java` `FastAPI` `Flask`<br>
+**Data & delivery** &nbsp; `PostgreSQL` `MongoDB` `Firebase` `Google Cloud` `Docker` `Nginx`
+
+---
+
+**Have something interesting to build?** [Let's talk ↗](mailto:u7khan@uwaterloo.ca)<br>
+<sub>Developer. Gamer. Always learning what makes things work.</sub>

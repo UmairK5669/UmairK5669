@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="360" viewBox="0 0 1040 360" fill="none">
+  <title>Umair Khan — thoughtful interfaces, serious engineering.</title>
+  <desc>A custom engineering drawing connects interface, API and cloud nodes around a UK monogram.</desc>
+  <defs>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" stroke="#F3EEE7" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1040" height="360" rx="12" fill="#191D20"/>
+  <rect width="1040" height="360" rx="12" fill="url(#grid)"/>
+  <path d="M40 64H1000M40 296H1000" stroke="#3B4144"/>
+  <rect x="40" y="29" width="8" height="8" fill="#F18A67"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="1.6" fill="#BEC3C4">
+    <text x="60" y="38">UK / SOFTWARE ENGINEERING</text>
+    <text x="1000" y="38" text-anchor="end">WATERLOO · TORONTO</text>
+    <text x="40" y="327">CURIOUS BY DEFAULT. BUILDER BY CHOICE.</text>
+    <text x="1000" y="327" text-anchor="end" fill="#F18A67">IDEA → SYSTEM → PRODUCT</text>
+  </g>
+  <text x="36" y="162" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="700" letter-spacing="-5" fill="#F4EFE7">Umair Khan<tspan fill="#F18A67">.</tspan></text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="29" letter-spacing="-.5">
+    <text x="40" y="218" fill="#F4EFE7">Thoughtful interfaces.</text>
+    <text x="40" y="255" fill="#F18A67">Serious engineering.</text>
+  </g>
+  <path d="M610 87V273" stroke="#3B4144"/>
+  <g stroke="#667074" stroke-width="1.5">
+    <path d="M678 143H728L752 167M905 122H865L847 150M882 239H854L837 220"/>
+    <path d="M667 109V99H677M951 109V99H941M667 259V269H677M951 259V269H941"/>
+    <circle cx="808" cy="184" r="89" stroke-dasharray="3 7"/>
+  </g>
+  <rect x="749" y="125" width="118" height="118" rx="24" fill="#F18A67" transform="rotate(-8 808 184)"/>
+  <g stroke="#191D20" stroke-width="8" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M775 167V190Q775 201 786 201Q797 201 797 190V167M817 167V201M838 167L818 184L840 201"/>
+  </g>
+  <g fill="#191D20" stroke="#667074">
+    <rect x="642" y="126" width="78" height="34" rx="17"/>
+    <rect x="893" y="105" width="78" height="34" rx="17"/>
+    <rect x="878" y="222" width="108" height="34" rx="17"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" text-anchor="middle" fill="#F4EFE7">
+    <text x="681" y="147">UI</text><text x="932" y="126">API</text><text x="932" y="243">CLOUD</text>
+  </g>
+  <g fill="#F18A67"><circle cx="735" cy="150" r="4"/><circle cx="880" cy="122" r="4"/><circle cx="865" cy="239" r="4"/></g>
+</svg>

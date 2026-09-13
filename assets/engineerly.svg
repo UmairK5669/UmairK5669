@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="184" viewBox="0 0 480 184" fill="none">
+  <title>EngineerlyAI — from course textbooks to contextual answers</title>
+  <rect width="480" height="184" rx="8" fill="#DCE8DD"/>
+  <g stroke="#224D44" opacity=".1"><path d="M0 46H480M0 92H480M0 138H480M48 0V184M96 0V184M144 0V184M192 0V184M240 0V184M288 0V184M336 0V184M384 0V184M432 0V184"/></g>
+  <text x="24" y="30" font-family="ui-monospace, Consolas, monospace" font-size="12" letter-spacing="1.5" fill="#224D44">01 / APPLIED AI</text>
+  <g stroke="#224D44" stroke-width="2.5" stroke-linejoin="round">
+    <path d="M75 77Q104 69 132 82V139Q103 126 75 134ZM132 82Q160 69 189 77V134Q160 126 132 139Z" fill="#EFF4EA"/>
+    <path d="M86 91Q103 86 120 94M86 102Q103 97 120 105M145 94Q162 86 177 91M145 105Q162 97 177 102" opacity=".5"/>
+    <path d="M208 106H272M262 97L272 106L262 115"/>
+    <path d="M304 72H387Q399 72 399 84V121Q399 133 387 133H331L315 146V133H304Q292 133 292 121V84Q292 72 304 72Z" fill="#224D44"/>
+  </g>
+  <g fill="#DCE8DD"><circle cx="319" cy="103" r="4"/><circle cx="345" cy="103" r="4"/><circle cx="371" cy="103" r="4"/></g>
+  <text x="456" y="167" text-anchor="end" font-family="ui-monospace, Consolas, monospace" font-size="10" letter-spacing="1" fill="#224D44">TEXTBOOK → CONTEXT → ANSWER</text>
+</svg>
