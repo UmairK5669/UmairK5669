@@ -5,9 +5,9 @@
   <img src="./assets/header.svg" width="100%" alt="Umair Khan. I build the interfaces people use, and the systems that make them work. Computer Engineering at Waterloo.">
 </picture>
 
-[Website](https://umair-khan.vercel.app/) &nbsp; · &nbsp; [Resume](https://umair-khan.vercel.app/umair-khan-resume.pdf) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/umair-khan0/) &nbsp; · &nbsp; [Email](mailto:u7khan@uwaterloo.ca)
+[Website](https://umair-khan.vercel.app/) &nbsp; · &nbsp; [Resume](https://umair-khan.vercel.app/umair-khan-resume.pdf?v=2026-09-17) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/umair-khan0/) &nbsp; · &nbsp; [Email](mailto:u7khan@uwaterloo.ca)
 
-I'm a **Computer Engineering student at Waterloo**. I like working across the whole system: the interfaces people use, the backend, APIs, and data behind them, and the infrastructure and deployment that bring it all together. That includes testing, DevOps, and continuing to develop the product once it's in people's hands.
+I'm a **Computer Engineering student at the University of Waterloo**, graduating in April 2028. I like building software and getting involved in the decisions around it: what we should build, how it should fit together, and where we can save ourselves unnecessary work.
 
 ## Experience
 
@@ -15,7 +15,7 @@ I'm a **Computer Engineering student at Waterloo**. I like working across the wh
 **Miovision · Software Developer Intern**<br>
 <sub>Jan–Apr 2026</sub>
 
-Built a device manager across Angular and NestJS, from onboarding and camera controls to device-assignment and camera APIs. Modernized embedded analytics and added Vitest and Cypress coverage.
+Led Tuba integration across frontend and device teams, enabling Miovision adoption at 40% lower hardware costs. Drove the new Device Manager experience with design and engineering, and built NestJS/RxJS provisioning flows that cut device registration time by 25%. Worked across camera configuration, hardware constraints, and compatibility with legacy integrations.
 
 **Eventist · Full-Stack Developer Intern**<br>
 <sub>May–Aug 2025</sub>
@@ -25,7 +25,7 @@ Event and studio management tools: guest emails, scheduling, embedded storefront
 **Qoherent · Software Development Intern, two terms**<br>
 <sub>Jan–Apr 2024 &amp; Sep–Dec 2024</sub>
 
-RIA Hub, an AI development platform for software radios. Worked across Vue, Go, FastAPI, Git LFS, and cloud deployment.
+Led full-stack development of the RIA Hub MVP, an AI development platform for software radios. Chose Gitea as the foundation for Git-like functionality so we could focus on our proprietary radio intelligence tooling. Worked across Vue 3, Go, FastAPI, dataset curation, Git LFS, and Google Cloud deployment.
 
 <details>
 <summary>Earlier work · Minds On &amp; Prosthetix</summary>
@@ -41,22 +41,28 @@ Built an Astro interface and integrated contact forms. [View the code](https://g
 
 ## Projects
 
-<!-- PROJECTS: Current descriptions are a baseline for the next content pass. -->
+**[Lumous](https://lumous.app)**<br>
+A macOS/Windows desktop automation app with device-bound licenses, Stripe payment processing, and automated signing and notarization. Reached **30+ customers in its first seven days**.<br>
+<sub>FastAPI · PostgreSQL · Stripe · GitHub Actions · Azure Artifact Signing · Heroku · Cloudflare</sub><br>
+[Project notes](https://umair-khan.vercel.app/#work-lumous)
+
+**[MuslimOS](https://muslimos.co/) + [Azan Box](https://muslimos.co/azan-box)**<br>
+A prayer-time and Quran app and a companion smart speaker. The app provisions the speaker over Bluetooth, then the speaker plays calls to prayer autonomously at times calculated daily for the user's location and settings.<br>
+<sub>React Native · ESP32 · Firebase Cloud Functions · Firestore · Firebase Cloud Messaging</sub><br>
+[Project notes](https://umair-khan.vercel.app/#work-muslimos)
+
 **EngineerlyAI**<br>
 A tutor that knows your course material. Course-specific engineering Q&amp;A using Gemini and textbook context, with a Next.js chat interface and a Flask backend on Cloud Run.<br>
 [Code](https://github.com/UmairK5669/EngineerlyAI) · [Project notes](https://umair-khan.vercel.app/#work-engineerly)
-
-**CursorFlow**<br>
-A desktop tool, built end to end. Cross-platform activity automation with a packaged desktop app, FastAPI services, Stripe subscriptions, and automated license delivery.<br>
-[Project notes](https://umair-khan.vercel.app/#work-cursorflow)
 
 [Airbnb-style booking platform](https://github.com/UmairK5669/AirbnbClone) — listings, reservations, search, and authentication with Next.js and MongoDB.
 
 ## Tools I work with
 
-**Interfaces** · TypeScript, JavaScript, React, Next.js, Vue, Angular, Tailwind CSS<br>
-**Backend & APIs** · Python, Go, Java, FastAPI, Flask, NestJS<br>
-**Data & deployment** · PostgreSQL, MongoDB, Firebase, Google Cloud, Docker, Nginx<br>
+**Interfaces** · TypeScript, JavaScript, React, React Native, Next.js, Vue 3, Angular, HTML/CSS, Tailwind CSS<br>
+**Backend & APIs** · Python, Go, Java, FastAPI, Flask, NestJS, RxJS, Stripe<br>
+**Data & cloud** · PostgreSQL, MongoDB, Firebase, AWS, Google Cloud, Cloudflare<br>
+**Deployment** · Docker, Kubernetes, Nginx, GitHub Actions (CI/CD)<br>
 **Testing** · Vitest, Cypress
 
 ---
