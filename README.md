@@ -51,12 +51,6 @@ A prayer-time and Quran app and a companion smart speaker. The app provisions th
 <sub>React Native · ESP32 · Firebase Cloud Functions · Firestore · Firebase Cloud Messaging</sub><br>
 [Project notes](https://umair-khan.vercel.app/#work-muslimos)
 
-**EngineerlyAI**<br>
-A tutor that knows your course material. Course-specific engineering Q&amp;A using Gemini and textbook context, with a Next.js chat interface and a Flask backend on Cloud Run.<br>
-[Code](https://github.com/UmairK5669/EngineerlyAI) · [Project notes](https://umair-khan.vercel.app/#work-engineerly)
-
-[Airbnb-style booking platform](https://github.com/UmairK5669/AirbnbClone) — listings, reservations, search, and authentication with Next.js and MongoDB.
-
 ## Tools I work with
 
 **Interfaces** · TypeScript, JavaScript, React, React Native, Next.js, Vue 3, Angular, HTML/CSS, Tailwind CSS<br>
